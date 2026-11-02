@@ -1,0 +1,9 @@
+﻿{
+    "original":  "ResNet_50.zip",
+    "sha256":  "C8398B1DA9E75BFB48F6D25BFCF97E7C755941B2750D0215AA963D4BE09FF1E8",
+    "parts":  [
+                  "part001",
+                  "part002",
+                  "part003"
+              ]
+}

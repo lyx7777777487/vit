@@ -1,0 +1,24 @@
+.idea/
+__pycache__/
+venv/
+
+datasets/LFW/lfw/
+
+saved_results/Models/*/*
+!saved_results/Models/*/history.txt
+!saved_results/Models/*/training_log.csv
+
+saved_results/Tests/LFW/*
+!saved_results/Tests/LFW/ROC.png
+!saved_results/Tests/LFW/ROC_zoom.png
+!saved_results/Tests/LFW/ROC_results.xlsx
+
+saved_results/Tests/UPM-GTI-Face/*
+!saved_results/Tests/UPM-GTI-Face/AUC Curves.xlsx
+!saved_results/Tests/UPM-GTI-Face/AUC_FC.png
+!saved_results/Tests/UPM-GTI-Face/AUC_FC_zoom.png
+# Full project import, including weights and local project files
+!**/
+!**
+/saved_results/Models/ResNet_50.zip
+
